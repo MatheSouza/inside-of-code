@@ -173,7 +173,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: 'Com a Inside você terá:'
       color: text-primary
       styles:
         self:
