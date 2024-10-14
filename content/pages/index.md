@@ -397,7 +397,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Entre em contato
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
