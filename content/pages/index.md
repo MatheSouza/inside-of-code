@@ -48,6 +48,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: 'Serviços de Social Media e Tráfego Pago Vão Te Ajudar a:'
     items:
