@@ -41,6 +41,7 @@ topSections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: '@insideifcode_'
     text: >+
       <div style="text-align: center">#### Somos a Inside Of Code, uma agência
