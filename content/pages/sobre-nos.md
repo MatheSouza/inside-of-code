@@ -9,34 +9,30 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
           fontWeight: 700
+          textAlign: center
     subtitle: '@insideifcode_'
     text: >+
       <div style="text-align: center">#### Somos a Inside Of Code, uma agência
-      de marketing digital especializada em Tráfego Pago e Social Media.</div>
+      de marketing digital especializada em Tráfego Pago e Social Media.
+
+
+      </div>
 
     actions: []
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (1).jpeg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
+      altText: Dope design preview
     badge:
       type: Badge
       label: ''
       color: text-primary
-    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+        flexDirection: row-reverse
       subtitle:
         fontStyle: italic
         textAlign: center
