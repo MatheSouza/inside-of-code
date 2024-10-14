@@ -7,6 +7,9 @@ sections:
       text: Venha Conhecer Um Pouco Mais Sobre Nós
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: ''
     actions: []
