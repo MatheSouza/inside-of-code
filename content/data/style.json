@@ -1,10 +1,10 @@
 {
     "light": "#ffffff",
     "dark": "#292929",
-    "neutral": "#E8E8EB",
-    "neutralAlt": "#DCDCDC",
+    "neutral": "#ffffff",
+    "neutralAlt": "#dddddd",
     "primary": "#009ac2",
-    "fontBody": "serif",
+    "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
@@ -76,7 +76,7 @@
     },
     "linkPrimary": {
         "weight": "normal",
-        "case": "none",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },

@@ -7,25 +7,20 @@ sections:
       text: Venha Conhecer Um Pouco Mais Sobre Nós
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
+          textAlign: justify
     subtitle: ''
     text: ''
-    actions:
-      - label: Vamos Lá!
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
-      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (2).jpeg
+      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (3).jpeg
       altText: Agência Inside
       elementId: ''
       type: ImageBlock
     badge:
-      label: Inside of code
+      label: '@insideifcode_'
       color: text-dark
       type: Badge
     elementId: ''
@@ -39,6 +34,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       text: >-
@@ -48,14 +44,18 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: 'Serviços de Social Media e Tráfego Pago Vão Te Ajudar a:'
     items:
       - type: FeaturedItem
-        title: 'Alcançar o público certo:'
+        title: "Alcançar o Público Certo e\_Gerar Mais Leads e Vendas:"
         subtitle: '@insideifcode_'
-        text: |
-          Atraímos clientes potenciais e engajados com sua marca.
+        text: >+
+          <div style="text-align: center">Atraímos clientes potenciais e
+          engajados com sua marca e implementamos estratégias que convertem
+          seguidores em clientes.</div>
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -69,45 +69,16 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 'Gerar mais leads e vendas:'
-        subtitle: '@insideifcode_'
-        text: |
-          Implementamos estratégias que convertem seguidores em clientes.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
+            textAlign: center
+            borderColor: border-dark
+            borderStyle: solid
+            borderWidth: 0
       - title: 'Fortalecer sua marca:'
         subtitle: '@insideifcode_'
         text: >
           Criamos conteúdo de qualidade que te posiciona como referência no
           mercado.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -122,6 +93,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: center
         type: FeaturedItem
       - type: FeaturedItem
         title: 'Tempo e Investimento:'
@@ -130,7 +102,6 @@ sections:
           Cuidamos de tudo para que você possa focar no que realmente importa.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -148,7 +119,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
     actions: []
     badge:
       label: ''
@@ -175,6 +146,11 @@ sections:
       type: TitleBlock
       text: Nossa Missão
       color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+          fontStyle: italic
     subtitle: ''
     text: >+
       <div style="text-align: center">Nossa missão é ajudar empresas a
@@ -202,16 +178,21 @@ sections:
       type: TitleBlock
       text: Nossa Visão
       color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+          fontStyle: italic
     subtitle: ''
     text: >+
-      <div style="text-align: center">## Trabalhamos com foco em resultados,
+      <div style="text-align: center">Trabalhamos com foco em resultados,
       oferecendo soluções que geram leads, vendas e visibilidade para nossos
       clientes.</div>
 
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/social midia.jpg
       altText: Fun feature preview
     badge:
       type: Badge
@@ -235,17 +216,18 @@ sections:
         title: 'Planejamento Personalizado:'
         tagline: ''
         subtitle: ''
-        text: |
-          Estratégias sob medida para as suas necessidades e objetivos.
+        text: >+
+          <div style="text-align: center">Estratégias sob medida para as suas
+          necessidades e objetivos.</div>
+
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -255,6 +237,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
       - type: FeaturedItem
         title: 'Equipe Experiente:'
         tagline: ''
@@ -264,13 +247,12 @@ sections:
           mercado.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -280,6 +262,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
       - type: FeaturedItem
         title: 'Resultados Comprovados:'
         tagline: ''
@@ -288,13 +271,12 @@ sections:
           Acompanhamento detalhado dos resultados e relatórios transparentes.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -304,6 +286,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -366,6 +349,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: ''
     text: ''
@@ -398,7 +382,11 @@ sections:
       text: Venha Fazer Parte Dessa Equipe
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+    subtitle: Entre Em Contato
     text: ''
     media:
       fields:
@@ -434,6 +422,7 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+          justifyContent: center
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
@@ -444,11 +433,20 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Entre em contato
-      color: text-primary
+      label: ''
+      color: text-dark
       type: Badge
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      subtitle:
+        textAlign: center
+      self:
+        alignItems: center
+        justifyContent: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
