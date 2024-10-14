@@ -20,7 +20,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Quem Somos",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
