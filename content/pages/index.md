@@ -441,6 +441,9 @@ sections:
           textAlign: center
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
