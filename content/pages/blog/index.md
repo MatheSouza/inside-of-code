@@ -35,14 +35,15 @@ topSections:
         self:
           textAlign: left
     subtitle: '@insideifcode_'
-    text: >
-      Prazer, meu nome é Bruno Camargo, e essa ao lado é a minha esposa Lara
-      Camargo.  Juntos fundamos a Inside of Code, uma agência de marketing. Para
-      nós, o mundo dos negócios está em constante evolução, destacar-se requer
-      mais do que apenas presença. Somos uma agência que compreende a essência
-      única de cada marca, trabalhando incansavelmente para traduzir essa
-      singularidade em estratégias de mídia social, design e tráfego pago que
-      realmente ressoam.
+    text: >+
+      <div style="text-align: center">Prazer, meu nome é Bruno Camargo, e essa
+      ao lado é a minha esposa Lara Camargo.  Juntos fundamos a Inside of Code,
+      uma agência de marketing. Para nós, o mundo dos negócios está em constante
+      evolução, destacar-se requer mais do que apenas presença. Somos uma
+      agência que compreende a essência única de cada marca, trabalhando
+      incansavelmente para traduzir essa singularidade em estratégias de mídia
+      social, design e tráfego pago que realmente ressoam.</div>
+
     actions: []
     colors: bg-light-fg-dark
     styles:
