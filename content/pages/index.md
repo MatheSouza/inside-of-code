@@ -187,7 +187,7 @@ sections:
     badge:
       type: Badge
       label: '@insideifcode_'
-      color: text-primary
+      color: text-dark
     colors: bg-light-fg-dark
     styles:
       self:
