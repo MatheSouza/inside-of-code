@@ -384,6 +384,9 @@ sections:
       text: Venha Fazer Parte Dessa Equipe
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: ''
     media:
