@@ -11,7 +11,7 @@ topSections:
       styles:
         self:
           textAlign: center
-    subtitle: Inside Of Code
+    subtitle: ''
     posts: []
     showThumbnail: true
     showExcerpt: true
