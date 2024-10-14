@@ -23,7 +23,7 @@
         {
             "label": "Sobre Nós",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/sobre-nos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
