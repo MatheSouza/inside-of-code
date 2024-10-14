@@ -49,7 +49,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Serviços de Social Media e Tráfego Pago Que vão te ajudar a:'
     items:
       - type: FeaturedItem
         title: 500k
