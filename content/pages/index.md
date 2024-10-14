@@ -74,6 +74,7 @@ sections:
             justifyContent: center
             textAlign: center
             borderColor: border-dark
+            borderStyle: solid
       - title: 'Fortalecer sua marca:'
         subtitle: '@insideifcode_'
         text: >
