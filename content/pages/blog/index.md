@@ -110,7 +110,7 @@ styles:
     textAlign: center
 seo:
   metaTitle: Quem Somos
-  metaDescription: ''
+  metaDescription: Quem Somos
   socialImage: /images/WhatsApp Image 2024-10-10 at 16.13.46.jpeg
   type: Seo
 type: PostFeedLayout
