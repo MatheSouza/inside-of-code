@@ -52,7 +52,7 @@ sections:
     subtitle: 'Serviços de Social Media e Tráfego Pago Vão Te Ajudar a:'
     items:
       - type: FeaturedItem
-        title: 'Alcançar o público certo:'
+        title: "Alcançar o público certo e\_Gerar mais leads e vendas:"
         subtitle: '@insideifcode_'
         text: |
           Atraímos clientes potenciais e engajados com sua marca.
