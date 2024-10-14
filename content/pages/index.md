@@ -182,7 +182,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Planejamento Personalizado:'
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Estratégias sob medida para as suas necessidades e objetivos.
