@@ -207,7 +207,7 @@ sections:
       - type: FeaturedItem
         title: 'Equipe Experiente:'
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Profissionais qualificados e atualizados com as últimas tendências do
           mercado.
