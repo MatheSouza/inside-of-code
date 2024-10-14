@@ -34,6 +34,7 @@ topSections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: '@insideifcode_'
     text: >+
       <div style="text-align: center">Prazer, meu nome é Bruno Camargo, e essa
