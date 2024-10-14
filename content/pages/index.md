@@ -135,7 +135,7 @@ sections:
               - pt-8
               - pl-5
               - pb-8
-              - pr-8
+              - pr-5
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
