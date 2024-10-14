@@ -109,11 +109,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+  metaTitle: Quem Somos?
+  metaDescription: ''
+  socialImage: /images/WhatsApp Image 2024-10-10 at 16.13.46.jpeg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
