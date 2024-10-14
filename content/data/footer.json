@@ -6,15 +6,15 @@
     "text": "",
     "socialLinks": [
         {
-            "altText": "Instagram Link",
-            "url": "https://www.instagram.com/insideofcode_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "insideofcode@gmail.com",
             "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "altText": "Instagram Link",
+            "url": "https://www.instagram.com/insideofcode_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            "icon": "instagram",
             "type": "Social"
         }
     ],
