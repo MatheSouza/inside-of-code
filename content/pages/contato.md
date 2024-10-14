@@ -97,6 +97,8 @@ sections:
     styles:
       self:
         justifyContent: center
+      subtitle:
+        fontStyle: italic
   - title:
       text: Open positions
       color: text-dark
