@@ -270,7 +270,6 @@ sections:
           Acompanhamento detalhado dos resultados e relatórios transparentes.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
           altText: Placeholder image
           styles:
             self:
