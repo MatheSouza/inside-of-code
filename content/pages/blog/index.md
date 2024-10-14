@@ -8,6 +8,9 @@ topSections:
       text: Quem Somos?
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Inside Of Code
     posts: []
     showThumbnail: true
