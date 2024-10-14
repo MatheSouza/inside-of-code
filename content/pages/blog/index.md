@@ -27,6 +27,8 @@ topSections:
           - pl-4
           - pr-4
         justifyContent: center
+      subtitle:
+        textAlign: center
     type: FeaturedPostsSection
     hoverEffect: move-up
   - type: CarouselSection
