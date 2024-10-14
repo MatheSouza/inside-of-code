@@ -44,11 +44,19 @@ sections:
         self:
           textAlign: left
     subtitle: '@insideifcode_'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Prazer, meu nome é Bruno Camargo, e essa ao lado é a minha esposa Lara
+      Camargo. Juntos fundamos a Inside of Code, uma agência de marketing. Para
+      nós, o mundo dos negócios está em constante evolução, destacar-se requer
+      mais do que apenas presença. Somos uma agência que compreende a essência
+      única de cada marca, trabalhando incansavelmente para traduzir essa
+      singularidade em estratégias de mídia social, design e tráfego pago que
+      realmente ressoam. Se você quer acessar o próximo nível do seu negócio
+      parabéns, você chegou no seu destino.
+
+
+      ### Vem entrar nesse código de sucesso constante, vem ser Inside.
+
     actions: []
     media:
       type: VideoBlock
