@@ -173,7 +173,7 @@ sections:
           - pt-16
           - pl-3
           - pr-3
-        justifyContent: center
+        justifyContent: flex-start
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
