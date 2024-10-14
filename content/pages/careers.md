@@ -10,9 +10,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
-      <div style="text-align: center">#### “Uma oportunidade única de alcançar a
-      próxima etapa do seu negócio.”</div>
+    text: |+
+      <div style="text-align: center">### **Entre em Contato**</div>
 
     actions: []
     colors: bg-light-fg-dark
