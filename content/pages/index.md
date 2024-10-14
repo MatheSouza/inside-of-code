@@ -49,7 +49,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Serviços de Social Media e Tráfego Pago Que vão te ajudar a:'
+    subtitle: 'Serviços de Social Media e Tráfego Pago Vão Te Ajudar a:'
     items:
       - type: FeaturedItem
         title: 'Alcançar o público certo:'
