@@ -422,6 +422,7 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+          justifyContent: center
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
