@@ -52,7 +52,7 @@ sections:
     subtitle: 'Serviços de Social Media e Tráfego Pago Que vão te ajudar a:'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 'Alcançar o público certo:'
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
