@@ -71,14 +71,6 @@ sections:
             justifyContent: center
             textAlign: left
             borderColor: border-dark
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
       - title: 'Gerar mais leads e vendas:'
         subtitle: '@insideifcode_'
         text: |
