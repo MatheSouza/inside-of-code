@@ -22,7 +22,7 @@
         },
         {
             "label": "Sobre Nós",
-            "altText": "Blog",
+            "altText": "",
             "url": "/sobre-nos",
             "icon": "arrowRight",
             "iconPosition": "right",
