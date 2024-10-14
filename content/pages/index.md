@@ -20,7 +20,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Inside of code
+      label: '@insideifcode_'
       color: text-dark
       type: Badge
     elementId: ''
