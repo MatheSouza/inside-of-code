@@ -96,6 +96,9 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
   - title:
       text: Open positions
       color: text-dark
