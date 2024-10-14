@@ -126,10 +126,8 @@ sections:
       - type: FeaturedItem
         title: 'Tempo e Investimento:'
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Cuidamos de tudo para que você possa focar no que realmente importa.
         image:
           type: ImageBlock
           url: /images/icon1.svg
