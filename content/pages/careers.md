@@ -161,7 +161,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Contato
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
