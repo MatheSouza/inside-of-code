@@ -206,7 +206,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: 'Equipe Experiente:'
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Profissionais qualificados e atualizados com as últimas tendências do
