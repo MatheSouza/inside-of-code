@@ -11,6 +11,7 @@ sections:
         self:
           fontWeight: 700
           textAlign: center
+          fontStyle: italic
     subtitle: ''
     text: ''
     actions: []
