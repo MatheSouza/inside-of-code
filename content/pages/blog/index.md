@@ -34,7 +34,7 @@ topSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: '@insideifcode_'
     text: >
       Prazer, meu nome é Bruno Camargo, e essa ao lado é a minha esposa Lara
       Camargo.  Juntos fundamos a Inside of Code, uma agência de marketing. Para
