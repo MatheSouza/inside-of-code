@@ -43,6 +43,9 @@ sections:
       type: TitleBlock
       text: Quer Fazer Parte Desse Time?
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Entre em Contato
     text: |
       “Uma oportunidade única de alcançar a próxima etapa do seu negócio.”
