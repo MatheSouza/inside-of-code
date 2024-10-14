@@ -48,6 +48,13 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
+          name: Contato
+          label: Entre em Contato
+          hideLabel: false
+          placeholder: ''
+          isRequired: false
+          width: full
+        - type: TextFormControl
           name: name
           label: Name
           hideLabel: true
@@ -66,13 +73,6 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Your message
-          width: full
-        - type: TextFormControl
-          name: Contato
-          label: Entre em Contato
-          hideLabel: false
-          placeholder: ''
-          isRequired: false
           width: full
       submitButton:
         type: SubmitButtonFormControl
