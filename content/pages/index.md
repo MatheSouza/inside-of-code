@@ -102,7 +102,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'Fortalecer sua marca:'
-        subtitle: Inside Of Code
+        subtitle: '@insideifcode_'
         text: >
           Criamos conteúdo de qualidade que te posiciona como referência no
           mercado.
