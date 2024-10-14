@@ -431,7 +431,7 @@ sections:
         elementId: null
     badge:
       label: Entre em contato
-      color: text-primary
+      color: text-dark
       type: Badge
       styles:
         self:
