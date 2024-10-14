@@ -13,15 +13,6 @@ sections:
       especializada em Tráfego Pago e Social Media.
 
     actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Link
         label: See Tutorials
         altText: ''
