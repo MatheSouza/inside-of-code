@@ -433,6 +433,9 @@ sections:
       label: Entre em contato
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
