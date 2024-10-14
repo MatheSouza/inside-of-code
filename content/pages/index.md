@@ -173,7 +173,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Nossa Missão
       color: text-dark
     subtitle: ''
     text: >
