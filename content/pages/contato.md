@@ -129,7 +129,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Como Funciona?
-        subtitle: Marketing
+        subtitle: ''
         text: >
           Após algumas reuniões para identificar o melhor trajeto para sua
           marca, começamos a produzir seu material.
