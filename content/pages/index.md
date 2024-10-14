@@ -79,7 +79,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 'Gerar mais leads e vendas:'
-        subtitle: The Job Stuff
+        subtitle: '@insideifcode_'
         text: |
           Implementamos estratégias que convertem seguidores em clientes.
         image:
