@@ -385,6 +385,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Entre Em Contato
     text: ''
     media:
