@@ -15,7 +15,7 @@ sections:
     text: ''
     actions: []
     media:
-      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (2).jpeg
+      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (3).jpeg
       altText: Agência Inside
       elementId: ''
       type: ImageBlock
