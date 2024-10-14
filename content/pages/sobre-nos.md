@@ -29,6 +29,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+      subtitle:
+        fontStyle: italic
   - type: GenericSection
     title:
       type: TitleBlock
