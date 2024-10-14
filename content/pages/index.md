@@ -174,7 +174,7 @@ sections:
     title:
       type: TitleBlock
       text: 'Com a Inside você terá:'
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
