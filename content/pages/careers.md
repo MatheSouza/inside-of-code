@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: “Uma oportunidade única de alcançar a próxima etapa do seu negócio.”
     text: |+
       <div style="text-align: center">### **Entre em Contato**</div>
 
