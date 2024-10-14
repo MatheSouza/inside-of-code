@@ -204,8 +204,8 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Trabalhamos com foco em resultados, oferecendo soluções que geram leads,
+      vendas e visibilidade para nossos clientes.
     actions:
       - type: Button
         label: Get started
