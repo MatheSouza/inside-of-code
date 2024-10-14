@@ -32,44 +32,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Quem Somos?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
-    subtitle: '@insideifcode_'
-    text: >+
-      <div style="text-align: center">#### Somos a Inside Of Code, uma agência
-      de marketing digital especializada em Tráfego Pago e Social Media.</div>
-
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (1).jpeg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-      subtitle:
-        fontStyle: italic
-        textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Sobre Nós
       color: text-dark
       styles:
