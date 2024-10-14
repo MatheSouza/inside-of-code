@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Quer Fazer Parte Desse Time?
       color: text-dark
       styles:
         self:
