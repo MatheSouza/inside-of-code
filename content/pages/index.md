@@ -230,7 +230,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: 'Resultados Comprovados:'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
