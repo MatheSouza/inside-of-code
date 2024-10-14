@@ -103,7 +103,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Open positions
+      text: FAQ
       color: text-dark
       styles:
         self:
