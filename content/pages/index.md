@@ -7,7 +7,7 @@ sections:
       text: Venha Conhecer Um Pouco Mais Sobre Nós
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: ''
     actions:
       - label: Get started
