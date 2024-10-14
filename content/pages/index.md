@@ -433,7 +433,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Entre em contato
+      label: Inside of code
       color: text-dark
       type: Badge
       styles:
