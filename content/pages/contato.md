@@ -99,6 +99,7 @@ sections:
         justifyContent: center
       subtitle:
         fontStyle: italic
+        textAlign: center
   - title:
       text: Open positions
       color: text-dark
