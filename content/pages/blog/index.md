@@ -63,6 +63,7 @@ topSections:
         flexDirection: row-reverse
       subtitle:
         fontStyle: italic
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
