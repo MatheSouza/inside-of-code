@@ -112,7 +112,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - title: Como Podemos Ajudar?
-        subtitle: Sales
+        subtitle: ''
         text: |
           Criando uma estrátegia de Marketing e uma identidade para sua Marca.
         colors: bg-neutral-fg-dark
