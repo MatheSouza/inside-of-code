@@ -348,7 +348,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: justify
+          textAlign: center
           fontWeight: 700
       type: TitleBlock
     subtitle: ''
