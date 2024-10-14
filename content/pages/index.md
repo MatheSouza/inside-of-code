@@ -41,7 +41,9 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: >-
+        Somos a Inside Of Code, uma agência de marketing digital especializada
+        em Tráfego Pago e Social Media.
       color: text-dark
       styles:
         self:
