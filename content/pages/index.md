@@ -202,6 +202,9 @@ sections:
       type: TitleBlock
       text: Nossa Visão
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: >+
       <div style="text-align: center">Trabalhamos com foco em resultados,
