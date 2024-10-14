@@ -69,7 +69,7 @@ sections:
           width: full
         - type: TextFormControl
           name: name
-          label: Name
+          label: Entre em Contato
           hideLabel: false
           placeholder: ''
           isRequired: false
