@@ -1,6 +1,6 @@
 ---
 title: Contato
-slug: Contato
+slug: contato
 sections:
   - title:
       text: Quer Fazer Parte Desse Time?
