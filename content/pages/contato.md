@@ -1,6 +1,6 @@
 ---
 title: Contato
-slug: /careers
+slug: /contato
 sections:
   - type: GenericSection
     subtitle: ''
