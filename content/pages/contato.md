@@ -1,6 +1,6 @@
 ---
 title: Contato
-slug: contato
+slug: /contato
 sections:
   - type: GenericSection
     subtitle: ''
@@ -160,9 +160,10 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Contato
+  metaDescription: Contato
+  socialImage: /images/WhatsApp Image 2024-10-10 at 16.13.46.jpeg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
