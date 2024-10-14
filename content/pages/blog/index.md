@@ -33,7 +33,7 @@ topSections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
     subtitle: '@insideifcode_'
     text: >+
       <div style="text-align: center">Prazer, meu nome é Bruno Camargo, e essa
