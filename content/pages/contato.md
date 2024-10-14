@@ -1,6 +1,6 @@
 ---
 title: Contato
-slug: careers
+slug: Contato
 sections:
   - title:
       text: Quer Fazer Parte Desse Time?
