@@ -130,10 +130,9 @@ sections:
         type: FeaturedItem
       - title: Como Funciona?
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Após algumas reuniões para identificar o melhor trajeto para sua
+          marca, começamos a produzir seu material.
         colors: bg-neutral-fg-dark
         styles:
           self:
