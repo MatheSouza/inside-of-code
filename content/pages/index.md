@@ -208,14 +208,7 @@ sections:
       oferecendo soluções que geram leads, vendas e visibilidade para nossos
       clientes.</div>
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
