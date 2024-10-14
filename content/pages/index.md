@@ -190,7 +190,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: '@insideifcode_'
+      label: ''
       color: text-dark
     colors: bg-light-fg-dark
     styles:
