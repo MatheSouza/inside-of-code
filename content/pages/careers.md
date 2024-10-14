@@ -46,7 +46,6 @@ sections:
       color: text-dark
     subtitle: ''
     text: |+
-      <div style="text-align: center"></div>
 
     actions: []
     media:
