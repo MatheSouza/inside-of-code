@@ -178,7 +178,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: '@insideifcode_'
     items:
       - type: FeaturedItem
         title: Feature Item One
