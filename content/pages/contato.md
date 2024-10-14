@@ -48,8 +48,10 @@ sections:
           textAlign: center
           fontWeight: 700
     subtitle: Entre em Contato
-    text: |
-      “Uma oportunidade única de alcançar a próxima etapa do seu negócio.”
+    text: >+
+      <div style="text-align: center">*“Uma oportunidade única de alcançar a
+      próxima etapa do seu negócio.”*</div>
+
     actions: []
     media:
       type: FormBlock
