@@ -8,9 +8,7 @@ sections:
       text: Inside Of Code
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions:
       - type: Button
         label: Get started
