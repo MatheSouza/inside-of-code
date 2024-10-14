@@ -8,7 +8,7 @@ topSections:
       text: Quem Somos?
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Inside Of Code
     posts: []
     showThumbnail: true
     showExcerpt: true
