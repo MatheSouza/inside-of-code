@@ -46,6 +46,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Entre em Contato
     text: |
       “Uma oportunidade única de alcançar a próxima etapa do seu negócio.”
