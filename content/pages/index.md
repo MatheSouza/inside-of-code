@@ -197,30 +197,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Nossa Visão
-      color: text-dark
-    subtitle: ''
-    text: >+
-      <div style="text-align: center">## Trabalhamos com foco em resultados,
-      oferecendo soluções que geram leads, vendas e visibilidade para nossos
-      clientes.</div>
-
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
