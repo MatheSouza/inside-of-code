@@ -73,7 +73,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: center
-            borderColor: border-dark
+            borderColor: border-primary
             borderStyle: solid
             borderWidth: 1
       - title: 'Fortalecer sua marca:'
