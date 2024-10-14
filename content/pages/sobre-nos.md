@@ -8,9 +8,13 @@ sections:
       text: Quem Somos?
       color: text-dark
     subtitle: '@insideifcode_'
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      <div style="text-align: center">#### Somos a Inside Of Code, uma agência
+      de marketing digital especializada em Tráfego Pago e Social Media.
+
+
+      </div>
+
     actions:
       - type: Button
         label: Get started
