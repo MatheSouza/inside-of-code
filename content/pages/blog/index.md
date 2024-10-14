@@ -12,6 +12,7 @@ topSections:
         self:
           textAlign: center
           fontWeight: 700
+          fontStyle: italic
     subtitle: ''
     posts: []
     showThumbnail: true
