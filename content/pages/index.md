@@ -9,16 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: ''
-    actions:
-      - label: Vamos Lá!
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (2).jpeg
       altText: Agência Inside
