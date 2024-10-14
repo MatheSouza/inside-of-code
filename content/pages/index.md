@@ -451,7 +451,7 @@ sections:
         justifyContent: center
 seo:
   metaTitle: Home
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
