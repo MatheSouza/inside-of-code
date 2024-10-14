@@ -148,10 +148,10 @@ sections:
         type: FeaturedItem
       - title: Porque Escolher a Inside?
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Acreditamos que o marketing digital é uma ferramenta poderosa que pode
+          ajudar empresas de todos os tamanhos a crescer e se destacar no
+          mercado.
         colors: bg-neutral-fg-dark
         styles:
           self:
