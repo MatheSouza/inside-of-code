@@ -432,7 +432,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Inside of code
+      label: ''
       color: text-dark
       type: Badge
       styles:
