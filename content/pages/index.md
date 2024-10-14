@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-          textAlign: justify
+          textAlign: center
     subtitle: ''
     text: ''
     actions: []
@@ -173,6 +173,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -202,6 +203,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
