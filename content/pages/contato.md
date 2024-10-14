@@ -113,10 +113,8 @@ sections:
     items:
       - title: Como Podemos Ajudar?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Criando uma estrátegia de Marketing e uma identidade para sua Marca.
         colors: bg-neutral-fg-dark
         styles:
           self:
