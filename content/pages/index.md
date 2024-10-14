@@ -179,6 +179,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
+          fontStyle: italic
     subtitle: ''
     text: >+
       <div style="text-align: center">Nossa missão é ajudar empresas a
