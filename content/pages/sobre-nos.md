@@ -35,6 +35,7 @@ sections:
           - pr-16
       subtitle:
         fontStyle: italic
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
