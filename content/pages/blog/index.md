@@ -1,7 +1,7 @@
 ---
 title: Quem Somos
 slug: /blog
-numOfPostsPerPage: 12
+numOfPostsPerPage: 0
 enableSearch: false
 topSections:
   - title:
