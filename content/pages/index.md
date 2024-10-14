@@ -99,7 +99,6 @@ sections:
           Criamos conteúdo de qualidade que te posiciona como referência no
           mercado.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
