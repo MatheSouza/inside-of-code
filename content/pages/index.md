@@ -167,7 +167,7 @@ sections:
           - pt-16
           - pl-16
           - pr-16
-        justifyContent: flex-end
+        justifyContent: center
       subtitle:
         textAlign: center
   - type: GenericSection
