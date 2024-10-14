@@ -71,7 +71,7 @@ sections:
           name: name
           label: Name
           hideLabel: false
-          placeholder: Your name
+          placeholder: ''
           isRequired: false
           width: full
       submitButton:
