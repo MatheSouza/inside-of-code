@@ -327,7 +327,9 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        Se você está procurando uma agência de marketing digital que possa
+        ajudá-lo a alcançar seus objetivos, entre em contato conosco!
       color: text-dark
       styles:
         self:
