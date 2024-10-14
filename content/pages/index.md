@@ -175,6 +175,9 @@ sections:
       type: TitleBlock
       text: Nossa Missão
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: >+
       <div style="text-align: center">Nossa missão é ajudar empresas a
