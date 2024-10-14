@@ -223,7 +223,6 @@ sections:
           Estratégias sob medida para as suas necessidades e objetivos.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
