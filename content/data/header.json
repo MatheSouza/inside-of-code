@@ -21,9 +21,9 @@
             "showIcon": false
         },
         {
-            "label": "Quem Somos",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Sobre Nós",
+            "altText": "",
+            "url": "/sobre-nos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
