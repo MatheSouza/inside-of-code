@@ -8,7 +8,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (2).jpeg
+      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (3).jpeg
       altText: Fun feature preview
     badge:
       type: Badge
