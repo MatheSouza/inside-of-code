@@ -121,7 +121,6 @@ sections:
           Cuidamos de tudo para que você possa focar no que realmente importa.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
           altText: Placeholder text
           elementId: ''
           styles:
