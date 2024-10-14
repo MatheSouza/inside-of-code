@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Venha Conhecer Um Pouco Mais Sobre Nós
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
