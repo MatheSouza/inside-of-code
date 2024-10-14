@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Alcançar o público certo:'
-        subtitle: Numbers Done
+        subtitle: '@insideifcode_'
         text: |
           Atraímos clientes potenciais e engajados com sua marca.
         actions: []
