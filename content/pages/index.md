@@ -72,28 +72,6 @@ sections:
             justifyContent: center
             textAlign: center
             borderColor: border-dark
-      - title: 'Gerar mais leads e vendas:'
-        subtitle: '@insideifcode_'
-        text: |
-          Implementamos estratégias que convertem seguidores em clientes.
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: center
-            justifyContent: center
-        type: FeaturedItem
       - title: 'Fortalecer sua marca:'
         subtitle: '@insideifcode_'
         text: >
