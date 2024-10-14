@@ -67,6 +67,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontStyle: italic
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-10-10 at 16.13.16.jpeg
