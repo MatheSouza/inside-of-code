@@ -450,9 +450,9 @@ sections:
         alignItems: center
         justifyContent: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home
+  metaDescription: ''
+  socialImage: /images/WhatsApp Image 2024-10-10 at 16.13.46.jpeg
   type: Seo
 type: PageLayout
 ---
