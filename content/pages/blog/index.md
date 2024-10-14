@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: false
 topSections:
   - title:
-      text: Quem Somos?
+      text: Inside Of Code
       color: text-dark
       type: TitleBlock
       styles:
