@@ -98,6 +98,7 @@ sections:
     styles:
       self:
         justifyContent: center
+        alignItems: center
   - title:
       text: Open positions
       color: text-dark
