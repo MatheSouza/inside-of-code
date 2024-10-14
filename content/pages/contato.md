@@ -3,15 +3,6 @@ title: Contato
 slug: contato
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Inside Of Code
-      color: text-dark
-      styles:
-        self:
-          fontWeight: 700
-          textAlign: center
-          fontStyle: italic
     subtitle: ''
     text: ''
     actions: []
