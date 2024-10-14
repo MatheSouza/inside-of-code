@@ -61,7 +61,7 @@
     },
     "socialLinks": [
         {
-            "altText": "Twitter link",
+            "altText": "link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
             "type": "Social"
