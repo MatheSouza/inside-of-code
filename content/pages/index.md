@@ -176,9 +176,13 @@ sections:
       text: Nossa Missão
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      <div style="text-align: center">Nossa missão é ajudar empresas a
+      alcançarem seus objetivos de marketing digital, através de soluções
+      personalizadas e inovadoras. Acreditamos que o marketing digital é uma
+      ferramenta poderosa que pode ajudar empresas de todos os tamanhos a
+      crescer e se destacar no mercado.</div>
+
     actions: []
     media:
       type: ImageBlock
