@@ -27,42 +27,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - title:
-      text: Quer Fazer Parte Desse Time?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: “Uma oportunidade única de alcançar a próxima etapa do seu negócio.”
-    text: |+
-      <div style="text-align: center">### **Entre em Contato**</div>
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
   - type: GenericSection
     title:
       type: TitleBlock
