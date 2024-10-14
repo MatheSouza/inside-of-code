@@ -203,9 +203,11 @@ sections:
       text: Nossa Visão
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      <div style="text-align: center">## Trabalhamos com foco em resultados,
+      oferecendo soluções que geram leads, vendas e visibilidade para nossos
+      clientes.</div>
+
     actions: []
     media:
       type: ImageBlock
