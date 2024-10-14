@@ -125,7 +125,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: 'Tempo e Investimento:'
-        subtitle: Numbers Done
+        subtitle: '@insideifcode_'
         text: |
           Cuidamos de tudo para que você possa focar no que realmente importa.
         image:
