@@ -45,7 +45,9 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: ''
+    text: |+
+      <div style="text-align: center">Entre em Contato</div>
+
     actions: []
     media:
       type: FormBlock
