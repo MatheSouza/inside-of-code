@@ -11,6 +11,7 @@ topSections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: ''
     posts: []
     showThumbnail: true
