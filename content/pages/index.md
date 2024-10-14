@@ -75,7 +75,7 @@ sections:
             textAlign: center
             borderColor: border-dark
             borderStyle: solid
-            borderWidth: 1
+            borderWidth: 0
       - title: 'Fortalecer sua marca:'
         subtitle: '@insideifcode_'
         text: >
