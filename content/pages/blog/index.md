@@ -53,7 +53,7 @@ topSections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/WhatsApp Image 2024-10-10 at 16.13.16.jpeg
       altText: Image alt text placeholder
       elementId: ''
       styles:
