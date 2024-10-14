@@ -238,7 +238,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            textAlign: center
+            textAlign: justify
       - type: FeaturedItem
         title: 'Equipe Experiente:'
         tagline: ''
