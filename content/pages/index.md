@@ -362,7 +362,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: '@insideifcode_'
       color: text-primary
       styles:
         self:
