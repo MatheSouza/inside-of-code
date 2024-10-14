@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/WhatsApp Image 2024-10-10 at 16.13.46.jpeg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "",
+    "defaultSocialImage": "/images/WhatsApp Image 2024-10-10 at 16.13.46.jpeg",
     "type": "Config",
     "header": "content/data/header.json"
 }
