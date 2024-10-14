@@ -8,10 +8,10 @@ sections:
       text: Quem Somos?
       color: text-dark
     subtitle: '@insideifcode_'
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      #### Somos a Inside Of Code, uma agência de marketing digital
+      especializada em Tráfego Pago e Social Media.
+
     actions:
       - type: Button
         label: Get started
