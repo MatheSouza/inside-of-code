@@ -99,6 +99,7 @@ sections:
     styles:
       self:
         justifyContent: center
+        alignItems: center
       subtitle:
         textAlign: center
   - title:
