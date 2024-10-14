@@ -40,8 +40,8 @@ topSections:
       color: text-dark
     subtitle: '@insideifcode_'
     text: >+
-      <div style="text-align: center">## Somos a Inside Of Code, uma agência de
-      marketing digital especializada em Tráfego Pago e Social Media. </div>
+      <div style="text-align: center"># Somos a Inside Of Code, uma agência de
+      marketing digital especializada em Tráfego Pago e Social Media.</div>
 
     actions: []
     media:
