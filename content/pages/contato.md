@@ -147,7 +147,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Porque Escolher a Inside?
-        subtitle: Engineering
+        subtitle: ''
         text: >
           Acreditamos que o marketing digital é uma ferramenta poderosa que pode
           ajudar empresas de todos os tamanhos a crescer e se destacar no
