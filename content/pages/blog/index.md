@@ -56,7 +56,7 @@ topSections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (1).jpeg
       altText: Dope design preview
     badge:
       type: Badge
