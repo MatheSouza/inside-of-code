@@ -181,7 +181,7 @@ sections:
     subtitle: '@insideifcode_'
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 'Planejamento Personalizado:'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
