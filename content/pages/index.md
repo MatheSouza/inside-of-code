@@ -69,7 +69,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
             borderColor: border-dark
       - title: 'Gerar mais leads e vendas:'
         subtitle: '@insideifcode_'
