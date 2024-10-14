@@ -54,9 +54,11 @@ sections:
       - type: FeaturedItem
         title: "Alcançar o público certo e\_Gerar mais leads e vendas:"
         subtitle: '@insideifcode_'
-        text: >
-          Atraímos clientes potenciais e engajados com sua marca.Implementamos
-          estratégias que convertem seguidores em clientes. 
+        text: >+
+          <div style="text-align: center">Atraímos clientes potenciais e
+          engajados com sua marca e implementamos estratégias que convertem
+          seguidores em clientes.</div>
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
