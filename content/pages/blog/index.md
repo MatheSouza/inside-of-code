@@ -74,7 +74,7 @@ topSections:
           textAlign: center
           fontWeight: 700
     subtitle: '@insideifcode_'
-    text: "<div style=\"text-align: center\">Prazer, meu nome é Bruno Camargo, e essa ao lado é a minha esposa Lara Camargo.  Juntos fundamos a Inside of Code, uma agência de marketing. Para nós, o mundo dos negócios está em constante evolução, destacar-se requer mais do que apenas presença. Somos uma agência que compreende a essência única de cada marca, trabalhando incansavelmente para traduzir essa singularidade em estratégias de mídia social, design e tráfego pago que realmente ressoam. Se você quer acessar o próximo nível do seu negócio parabéns, você chegou no seu destino.\n\nVem entrar nesse código de sucesso constante, vem ser Inside.\_\n\n</div>\n\n"
+    text: "<div style=\"text-align: center\">Prazer, meu nome é Bruno Camargo, e essa ao lado é a minha esposa Lara Camargo.  Juntos fundamos a Inside of Code, uma agência de marketing. Para nós, o mundo dos negócios está em constante evolução, destacar-se requer mais do que apenas presença. Somos uma agência que compreende a essência única de cada marca, trabalhando incansavelmente para traduzir essa singularidade em estratégias de mídia social, design e tráfego pago que realmente ressoam. Se você quer acessar o próximo nível do seu negócio parabéns, você chegou no seu destino.</div>\n\n# Vem entrar nesse código de sucesso constante, vem ser Inside.\_\n\n</div>\n\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
