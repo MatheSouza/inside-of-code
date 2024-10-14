@@ -2,7 +2,7 @@
 title: Quem Somos
 slug: /blog
 numOfPostsPerPage: 12
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: Inside Of Code
