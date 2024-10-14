@@ -41,7 +41,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Quer Fazer Parte Desse Time?
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
