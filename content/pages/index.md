@@ -210,6 +210,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
+          fontStyle: italic
     subtitle: ''
     text: >+
       <div style="text-align: center">Trabalhamos com foco em resultados,
