@@ -54,10 +54,8 @@ sections:
       - type: FeaturedItem
         title: 'Alcançar o público certo:'
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Atraímos clientes potenciais e engajados com sua marca.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
