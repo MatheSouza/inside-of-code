@@ -76,7 +76,6 @@ sections:
         text: |
           Implementamos estratégias que convertem seguidores em clientes.
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
