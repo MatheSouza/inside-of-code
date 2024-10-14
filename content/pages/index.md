@@ -234,7 +234,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          Acompanhamento detalhado dos resultados e relatórios transparentes.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
