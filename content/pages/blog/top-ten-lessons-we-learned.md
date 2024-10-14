@@ -7,7 +7,6 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (1).jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
