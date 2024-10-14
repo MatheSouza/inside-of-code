@@ -42,7 +42,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: Entre em Contato
       color: text-dark
     subtitle: ''
     text: |+
