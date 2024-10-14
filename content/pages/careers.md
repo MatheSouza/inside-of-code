@@ -162,7 +162,7 @@ sections:
 seo:
   metaTitle: Contato
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/WhatsApp Image 2024-10-10 at 16.13.46.jpeg
   type: Seo
 type: PageLayout
 ---
