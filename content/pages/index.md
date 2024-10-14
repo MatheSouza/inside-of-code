@@ -208,8 +208,9 @@ sections:
         title: 'Equipe Experiente:'
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          Profissionais qualificados e atualizados com as últimas tendências do
+          mercado.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
