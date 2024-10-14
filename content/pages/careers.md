@@ -40,10 +40,6 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
     subtitle: ''
     text: |+
 
