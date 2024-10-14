@@ -12,16 +12,7 @@ sections:
       #### Somos a Inside Of Code, uma agência de marketing digital
       especializada em Tráfego Pago e Social Media.
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/main-hero.svg
