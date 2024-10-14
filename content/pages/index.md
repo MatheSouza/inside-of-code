@@ -202,7 +202,7 @@ sections:
       type: TitleBlock
       text: Nossa Visão
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >+
       <div style="text-align: center">Trabalhamos com foco em resultados,
       oferecendo soluções que geram leads, vendas e visibilidade para nossos
