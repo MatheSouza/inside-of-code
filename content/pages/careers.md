@@ -68,7 +68,7 @@ sections:
           placeholder: Your message
           width: full
         - type: TextFormControl
-          name: name
+          name: Contato
           label: Entre em Contato
           hideLabel: false
           placeholder: ''
