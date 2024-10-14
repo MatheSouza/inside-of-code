@@ -40,14 +40,7 @@ topSections:
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-10-10 at 16.13.16 (1).jpeg
