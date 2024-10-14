@@ -219,8 +219,10 @@ sections:
         title: 'Planejamento Personalizado:'
         tagline: ''
         subtitle: ''
-        text: |
-          Estratégias sob medida para as suas necessidades e objetivos.
+        text: >+
+          <div style="text-align: center">Estratégias sob medida para as suas
+          necessidades e objetivos.</div>
+
         image:
           type: ImageBlock
           altText: Placeholder image
