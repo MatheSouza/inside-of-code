@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Quem Somos
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
