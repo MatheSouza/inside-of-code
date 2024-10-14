@@ -89,10 +89,6 @@ sections:
           borderWidth: 1
           borderRadius: large
           justifyContent: center
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
