@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Quem Somos?
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: '@insideifcode_'
     text: >+
       <div style="text-align: center">#### Somos a Inside Of Code, uma agência
